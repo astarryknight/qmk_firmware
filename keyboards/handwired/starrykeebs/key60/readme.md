@@ -1,8 +1,8 @@
-# Copt37
+# key60
 
-![copt37](imgur link here)
+![key60](imgur link here)
 
-A 37 key keyboard based on the ScottoSlant that has first of its kind Coptic keycap legends
+A general firmware for 60% boards (mainly intended for my pcbs)
 
 * Keyboard Maintainer: [astarryknight](https://github.com/astarryknight)
 * Hardware Supported: rp2040 (using the adafruit kb2040), firmware written for ATmega32U4
@@ -10,11 +10,11 @@ A 37 key keyboard based on the ScottoSlant that has first of its kind Coptic key
 
 Make example for this keyboard (after setting up your build environment):
 
-    make handwired/starrykeebs/copt37:default
+    make handwired/starrykeebs/key60:default
 
 Flashing example for this keyboard:
 
-    make handwired/starrykeebs/copt37:default:flash
+    make handwired/starrykeebs/key60:default:flash
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
